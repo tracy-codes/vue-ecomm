@@ -26,6 +26,15 @@ The backend will be GraphQL that communicates with a MySQL database
       - [ ] Revenue
       - [ ] Orders
       - [ ] Page views
-- [ ] Build container for MySQL database
+- [ ] Build container for database (MySQL or Postgres?)
 - [ ] Build GraphQL API that will communicate with the MySQL DB
 - [ ] Connect system w/ Stripe to process orders
+
+### Stretch TODOs
+
+- [ ] Build user account system
+  - [ ] Username
+  - [ ] Email
+  - [ ] Profile Picture
+  - [ ] Order History
+  - [ ] Reorder
