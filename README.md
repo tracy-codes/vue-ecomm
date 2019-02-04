@@ -29,6 +29,8 @@ The backend will be GraphQL that communicates with a MySQL database
 - [ ] Build container for database (MySQL or Postgres?)
 - [ ] Build GraphQL API that will communicate with the MySQL DB
 - [ ] Connect system w/ Stripe to process orders
+- [ ] Deploy DB to DigitalOcean
+- [ ] Deploy to Now
 
 ### Stretch TODOs
 
@@ -38,3 +40,5 @@ The backend will be GraphQL that communicates with a MySQL database
   - [ ] Profile Picture
   - [ ] Order History
   - [ ] Reorder
+- [ ] Containerize & deploy to Kubernetes
+  - [ ] Autoscale app based on load
